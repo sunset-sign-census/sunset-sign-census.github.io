@@ -128,9 +128,9 @@ WAWONA|45TH|46TH,13499000,Wawona St,45th Ave,46th Ave,Wawona St between 45th Ave
 48TH|RIVERA|SANTIAGO,2076000,48th Ave,Rivera St,Santiago St,48th Ave between Rivera St and Santiago St,ns,0,1,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
 48TH|SANTIAGO|TARAVAL,2077000,48th Ave,Santiago St,Taraval St,48th Ave between Santiago St and Taraval St,ns,7,3,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
 48TH|TARAVAL|ULLOA,2078000,48th Ave,Taraval St,Ulloa St,48th Ave between Taraval St and Ulloa St,ns,1,4,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
-LA PLAYA|IRVING|LINCOLN,7922000,La Playa,Lincoln Way,Irving St,La Playa between Lincoln Way and Irving St,ns,6,2,counted,,notes: 'Lp'; Judah-Kirkham added later
-LA PLAYA|IRVING|JUDAH,7923000,La Playa,Irving St,Judah St,La Playa between Irving St and Judah St,ns,0,4,counted,,notes: 'Lp'; Judah-Kirkham added later
-LA PLAYA|JUDAH|KIRKHAM,7924000,La Playa,Judah St,Kirkham St,La Playa between Judah St and Kirkham St,ns,0,3,counted,,notes: 'Lp'; Judah-Kirkham added later
+LA PLAYA|IRVING|LINCOLN,7922000,La Playa,Lincoln Way,Irving St,La Playa between Lincoln Way and Irving St,ns,6,2,counted,,"notes: 'Lp'; Judah-Kirkham added later, Irving-Judah revised to 5"
+LA PLAYA|IRVING|JUDAH,7923000,La Playa,Irving St,Judah St,La Playa between Irving St and Judah St,ns,0,5,counted,,"notes: 'Lp'; Judah-Kirkham added later, Irving-Judah revised to 5"
+LA PLAYA|JUDAH|KIRKHAM,7924000,La Playa,Judah St,Kirkham St,La Playa between Judah St and Kirkham St,ns,0,3,counted,,"notes: 'Lp'; Judah-Kirkham added later, Irving-Judah revised to 5"
 LOWER GREAT|IRVING|LINCOLN,8508000,Lower Great Hwy,Lincoln Way,Irving St,Lower Great Hwy between Lincoln Way and Irving St,ns,0,0,counted,,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
 LOWER GREAT|IRVING|JUDAH,8509000,Lower Great Hwy,Irving St,Judah St,Lower Great Hwy between Irving St and Judah St,ns,0,1,counted,,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
 LOWER GREAT|JUDAH|KIRKHAM,8510000,Lower Great Hwy,Judah St,Kirkham St,Lower Great Hwy between Judah St and Kirkham St,ns,,,no residences,no buildings; these addresses face La Playa,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"

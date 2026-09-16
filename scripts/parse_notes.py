@@ -60,7 +60,8 @@ RUNS = [
         (1, 1), (1, 2), (0, 1), (0, 0), (0, 1), (1, 0), (0, 2), (0, 4),
         (0, 1), (0, 2), (0, 5), (0, 1), (1, 3), (0, 3), (2, 0), (0, 0),
     ], "notes: '45th', starting at Lincoln"),
-    ("La Playa", N2S, [(6, 2), (0, 4), (0, 3)], "notes: 'Lp'; Judah-Kirkham added later"),
+    ("La Playa", N2S, [(6, 2), (0, 5), (0, 3)],
+     "notes: 'Lp'; Judah-Kirkham added later, Irving-Judah revised to 5"),
 
     # --- Cross streets, each walked from the Great Highway eastward ---------
     ("Sloat Blvd",   W2E, [(0, 1), (0, 0), (0, 0)], "notes: 'Sloat'"),

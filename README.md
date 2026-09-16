@@ -5,8 +5,8 @@ Outer Sunset — 45th Avenue west to the ocean, Lincoln Way south to Sloat.
 Counted by hand on **9 September 2026**. The unit is the dwelling, not the
 sign: a home showing three signs counts once, the same as a home showing one.
 
-**Headline:** 223 homes showing a sign, across 145 blocks. No on G leads
-184 to 39 — 4.7 to 1. Every block with homes on it was walked.
+**Headline:** 224 homes showing a sign, across 145 blocks. No on G leads
+185 to 39 — 4.7 to 1. Every block with homes on it was walked.
 
 ## Running it
 
