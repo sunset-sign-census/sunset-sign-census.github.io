@@ -1,0 +1,3975 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505362509,
+      37.737067861
+     ],
+     [
+      -122.50631414,
+      37.73702273
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "4562000",
+    "street": "Cutler Ave",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "Lower Great Hwy",
+    "key": "CUTLER|47TH|LOWER GREAT",
+    "label": "Cutler Ave between 47th Ave and Lower Great Hwy",
+    "pos": -122.505838
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50926908,
+      37.762142922
+     ],
+     [
+      -122.509622174,
+      37.762127288
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7327000",
+    "street": "Irving St",
+    "axis": "ew",
+    "from": "La Playa",
+    "to": "Lower Great Hwy",
+    "key": "IRVING|LA PLAYA|LOWER GREAT",
+    "label": "Irving St between La Playa and Lower Great Hwy",
+    "pos": -122.509446
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.508198574,
+      37.762190312
+     ],
+     [
+      -122.50926908,
+      37.762142922
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7326000",
+    "street": "Irving St",
+    "axis": "ew",
+    "from": "48th Ave",
+    "to": "La Playa",
+    "key": "IRVING|48TH|LA PLAYA",
+    "label": "Irving St between 48th Ave and La Playa",
+    "pos": -122.508734
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507130197,
+      37.762237599
+     ],
+     [
+      -122.508198574,
+      37.762190312
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7325000",
+    "street": "Irving St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "IRVING|47TH|48TH",
+    "label": "Irving St between 47th Ave and 48th Ave",
+    "pos": -122.507664
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506059075,
+      37.762284998
+     ],
+     [
+      -122.507130197,
+      37.762237599
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7324000",
+    "street": "Irving St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "IRVING|46TH|47TH",
+    "label": "Irving St between 46th Ave and 47th Ave",
+    "pos": -122.506595
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504987664,
+      37.762332399
+     ],
+     [
+      -122.506059075,
+      37.762284998
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7323000",
+    "street": "Irving St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "IRVING|45TH|46TH",
+    "label": "Irving St between 45th Ave and 46th Ave",
+    "pos": -122.505523
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.509141223,
+      37.760282322
+     ],
+     [
+      -122.509381622,
+      37.760271686
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7686000",
+    "street": "Judah St",
+    "axis": "ew",
+    "from": "La Playa",
+    "to": "Lower Great Hwy",
+    "key": "JUDAH|LA PLAYA|LOWER GREAT",
+    "label": "Judah St between La Playa and Lower Great Hwy",
+    "pos": -122.509261
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50806756,
+      37.760329816
+     ],
+     [
+      -122.509141223,
+      37.760282322
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7685000",
+    "street": "Judah St",
+    "axis": "ew",
+    "from": "48th Ave",
+    "to": "La Playa",
+    "key": "JUDAH|48TH|LA PLAYA",
+    "label": "Judah St between 48th Ave and La Playa",
+    "pos": -122.508604
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506999208,
+      37.760377066
+     ],
+     [
+      -122.50806756,
+      37.760329816
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7684000",
+    "street": "Judah St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "JUDAH|47TH|48TH",
+    "label": "Judah St between 47th Ave and 48th Ave",
+    "pos": -122.507533
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505928111,
+      37.760424427
+     ],
+     [
+      -122.506999208,
+      37.760377066
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7683000",
+    "street": "Judah St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "JUDAH|46TH|47TH",
+    "label": "Judah St between 46th Ave and 47th Ave",
+    "pos": -122.506464
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504856723,
+      37.760471791
+     ],
+     [
+      -122.505928111,
+      37.760424427
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7682000",
+    "street": "Judah St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "JUDAH|45TH|46TH",
+    "label": "Judah St between 45th Ave and 46th Ave",
+    "pos": -122.505392
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507936313,
+      37.758465892
+     ],
+     [
+      -122.50911129,
+      37.758414453
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7888000",
+    "street": "Kirkham St",
+    "axis": "ew",
+    "from": "48th Ave",
+    "to": "Lower Great Hwy",
+    "key": "KIRKHAM|48TH|LOWER GREAT",
+    "label": "Kirkham St between 48th Ave and Lower Great Hwy",
+    "pos": -122.508524
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506867953,
+      37.758512654
+     ],
+     [
+      -122.507936313,
+      37.758465892
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7887000",
+    "street": "Kirkham St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "KIRKHAM|47TH|48TH",
+    "label": "Kirkham St between 47th Ave and 48th Ave",
+    "pos": -122.507402
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505796847,
+      37.758559525
+     ],
+     [
+      -122.506867953,
+      37.758512654
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7886000",
+    "street": "Kirkham St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "KIRKHAM|46TH|47TH",
+    "label": "Kirkham St between 46th Ave and 47th Ave",
+    "pos": -122.506332
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504725452,
+      37.7586064
+     ],
+     [
+      -122.505796847,
+      37.758559525
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7885000",
+    "street": "Kirkham St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "KIRKHAM|45TH|46TH",
+    "label": "Kirkham St between 45th Ave and 46th Ave",
+    "pos": -122.505261
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507804844,
+      37.756598756
+     ],
+     [
+      -122.508902544,
+      37.75655123
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8229000",
+    "street": "Lawton St",
+    "axis": "ew",
+    "from": "48th Ave",
+    "to": "Lower Great Hwy",
+    "key": "LAWTON|48TH|LOWER GREAT",
+    "label": "Lawton St between 48th Ave and Lower Great Hwy",
+    "pos": -122.508354
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506736536,
+      37.75664586
+     ],
+     [
+      -122.507804844,
+      37.756598756
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8228000",
+    "street": "Lawton St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "LAWTON|47TH|48TH",
+    "label": "Lawton St between 47th Ave and 48th Ave",
+    "pos": -122.507271
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505665482,
+      37.756693075
+     ],
+     [
+      -122.506736536,
+      37.75664586
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8227000",
+    "street": "Lawton St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "LAWTON|46TH|47TH",
+    "label": "Lawton St between 46th Ave and 47th Ave",
+    "pos": -122.506201
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504594138,
+      37.756740294
+     ],
+     [
+      -122.505665482,
+      37.756693075
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8226000",
+    "street": "Lawton St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "LAWTON|45TH|46TH",
+    "label": "Lawton St between 45th Ave and 46th Ave",
+    "pos": -122.50513
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.509402192,
+      37.764032735
+     ],
+     [
+      -122.509529067,
+      37.763979613
+     ],
+     [
+      -122.509833065,
+      37.763969287
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8387101",
+    "street": "Lincoln Way",
+    "axis": "ew",
+    "from": "MLK Jr Dr",
+    "to": "Lower Great Hwy",
+    "key": "LINCOLN|LOWER GREAT|MLK",
+    "label": "Lincoln Way between MLK Jr Dr and Lower Great Hwy",
+    "pos": -122.509618
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.508331369,
+      37.76407602
+     ],
+     [
+      -122.508455018,
+      37.764030954
+     ],
+     [
+      -122.509283726,
+      37.763997456
+     ],
+     [
+      -122.509402192,
+      37.764032735
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8386101",
+    "street": "Lincoln Way",
+    "axis": "ew",
+    "from": "48th Ave",
+    "to": "MLK Jr Dr",
+    "key": "LINCOLN|48TH|MLK",
+    "label": "Lincoln Way between 48th Ave and MLK Jr Dr",
+    "pos": -122.508867
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507262466,
+      37.764116211
+     ],
+     [
+      -122.507371913,
+      37.764077991
+     ],
+     [
+      -122.508200709,
+      37.764046828
+     ],
+     [
+      -122.508331369,
+      37.76407602
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8385101",
+    "street": "Lincoln Way",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "LINCOLN|47TH|48TH",
+    "label": "Lincoln Way between 47th Ave and 48th Ave",
+    "pos": -122.507797
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506191495,
+      37.764166134
+     ],
+     [
+      -122.506318133,
+      37.764128752
+     ],
+     [
+      -122.507151365,
+      37.764089912
+     ],
+     [
+      -122.507262466,
+      37.764116211
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8384101",
+    "street": "Lincoln Way",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "LINCOLN|46TH|47TH",
+    "label": "Lincoln Way between 46th Ave and 47th Ave",
+    "pos": -122.506727
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505120122,
+      37.764214478
+     ],
+     [
+      -122.505223603,
+      37.764173508
+     ],
+     [
+      -122.506079329,
+      37.764134894
+     ],
+     [
+      -122.506191495,
+      37.764166134
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8383101",
+    "street": "Lincoln Way",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "LINCOLN|45TH|46TH",
+    "label": "Lincoln Way between 45th Ave and 46th Ave",
+    "pos": -122.505656
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507673715,
+      37.754736332
+     ],
+     [
+      -122.508679285,
+      37.754691735
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "9374000",
+    "street": "Moraga St",
+    "axis": "ew",
+    "from": "48th Ave",
+    "to": "Lower Great Hwy",
+    "key": "MORAGA|48TH|LOWER GREAT",
+    "label": "Moraga St between 48th Ave and Lower Great Hwy",
+    "pos": -122.508176
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506605452,
+      37.7547837
+     ],
+     [
+      -122.507673715,
+      37.754736332
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "9373000",
+    "street": "Moraga St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "MORAGA|47TH|48TH",
+    "label": "Moraga St between 47th Ave and 48th Ave",
+    "pos": -122.50714
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505534444,
+      37.754831181
+     ],
+     [
+      -122.506605452,
+      37.7547837
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "9372000",
+    "street": "Moraga St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "MORAGA|46TH|47TH",
+    "label": "Moraga St between 46th Ave and 47th Ave",
+    "pos": -122.50607
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504463145,
+      37.754878664
+     ],
+     [
+      -122.505534444,
+      37.754831181
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "9371000",
+    "street": "Moraga St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "MORAGA|45TH|46TH",
+    "label": "Moraga St between 45th Ave and 46th Ave",
+    "pos": -122.504999
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507545783,
+      37.752869455
+     ],
+     [
+      -122.508432397,
+      37.752830227
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "9683000",
+    "street": "Noriega St",
+    "axis": "ew",
+    "from": "48th Ave",
+    "to": "Lower Great Hwy",
+    "key": "NORIEGA|48TH|LOWER GREAT",
+    "label": "Noriega St between 48th Ave and Lower Great Hwy",
+    "pos": -122.507989
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506476342,
+      37.752916763
+     ],
+     [
+      -122.507545783,
+      37.752869455
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "9682000",
+    "street": "Noriega St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "NORIEGA|47TH|48TH",
+    "label": "Noriega St between 47th Ave and 48th Ave",
+    "pos": -122.507011
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505405788,
+      37.75296411
+     ],
+     [
+      -122.506476342,
+      37.752916763
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "9681000",
+    "street": "Noriega St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "NORIEGA|46TH|47TH",
+    "label": "Noriega St between 46th Ave and 47th Ave",
+    "pos": -122.505941
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504333368,
+      37.75301153
+     ],
+     [
+      -122.505405788,
+      37.75296411
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "9680000",
+    "street": "Noriega St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "NORIEGA|45TH|46TH",
+    "label": "Noriega St between 45th Ave and 46th Ave",
+    "pos": -122.50487
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507416228,
+      37.751003284
+     ],
+     [
+      -122.508186651,
+      37.7509682
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "10037000",
+    "street": "Ortega St",
+    "axis": "ew",
+    "from": "48th Ave",
+    "to": "Lower Great Hwy",
+    "key": "ORTEGA|48TH|LOWER GREAT",
+    "label": "Ortega St between 48th Ave and Lower Great Hwy",
+    "pos": -122.507801
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506347527,
+      37.751051944
+     ],
+     [
+      -122.507416228,
+      37.751003284
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "10036000",
+    "street": "Ortega St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "ORTEGA|47TH|48TH",
+    "label": "Ortega St between 47th Ave and 48th Ave",
+    "pos": -122.506882
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505276576,
+      37.751093151
+     ],
+     [
+      -122.506347527,
+      37.751051944
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "10035000",
+    "street": "Ortega St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "ORTEGA|46TH|47TH",
+    "label": "Ortega St between 46th Ave and 47th Ave",
+    "pos": -122.505812
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504203313,
+      37.75114379
+     ],
+     [
+      -122.505276576,
+      37.751093151
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "10034000",
+    "street": "Ortega St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "ORTEGA|45TH|46TH",
+    "label": "Ortega St between 45th Ave and 46th Ave",
+    "pos": -122.50474
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507286879,
+      37.749139972
+     ],
+     [
+      -122.507941547,
+      37.749110937
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "10117000",
+    "street": "Pacheco St",
+    "axis": "ew",
+    "from": "48th Ave",
+    "to": "Lower Great Hwy",
+    "key": "PACHECO|48TH|LOWER GREAT",
+    "label": "Pacheco St between 48th Ave and Lower Great Hwy",
+    "pos": -122.507614
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506218733,
+      37.749187334
+     ],
+     [
+      -122.507286879,
+      37.749139972
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "10116000",
+    "street": "Pacheco St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "PACHECO|47TH|48TH",
+    "label": "Pacheco St between 47th Ave and 48th Ave",
+    "pos": -122.506753
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505148242,
+      37.749234792
+     ],
+     [
+      -122.506218733,
+      37.749187334
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "10115000",
+    "street": "Pacheco St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "PACHECO|46TH|47TH",
+    "label": "Pacheco St between 46th Ave and 47th Ave",
+    "pos": -122.505683
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504073708,
+      37.74928242
+     ],
+     [
+      -122.505148242,
+      37.749234792
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "10114000",
+    "street": "Pacheco St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "PACHECO|45TH|46TH",
+    "label": "Pacheco St between 45th Ave and 46th Ave",
+    "pos": -122.504611
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50715922,
+      37.747272273
+     ],
+     [
+      -122.507694895,
+      37.747248534
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "10883000",
+    "street": "Quintara St",
+    "axis": "ew",
+    "from": "48th Ave",
+    "to": "Lower Great Hwy",
+    "key": "QUINTARA|48TH|LOWER GREAT",
+    "label": "Quintara St between 48th Ave and Lower Great Hwy",
+    "pos": -122.507427
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506086845,
+      37.747319788
+     ],
+     [
+      -122.50715922,
+      37.747272273
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "10882000",
+    "street": "Quintara St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "QUINTARA|47TH|48TH",
+    "label": "Quintara St between 47th Ave and 48th Ave",
+    "pos": -122.506623
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50501447,
+      37.747367294
+     ],
+     [
+      -122.506086845,
+      37.747319788
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "10881000",
+    "street": "Quintara St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "QUINTARA|46TH|47TH",
+    "label": "Quintara St between 46th Ave and 47th Ave",
+    "pos": -122.505551
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503941818,
+      37.747414803
+     ],
+     [
+      -122.50501447,
+      37.747367294
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "10880000",
+    "street": "Quintara St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "QUINTARA|45TH|46TH",
+    "label": "Quintara St between 45th Ave and 46th Ave",
+    "pos": -122.504478
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507030542,
+      37.745409543
+     ],
+     [
+      -122.507442626,
+      37.745391435
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "11082000",
+    "street": "Rivera St",
+    "axis": "ew",
+    "from": "48th Ave",
+    "to": "Lower Great Hwy",
+    "key": "RIVERA|48TH|LOWER GREAT",
+    "label": "Rivera St between 48th Ave and Lower Great Hwy",
+    "pos": -122.507237
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505958167,
+      37.745456659
+     ],
+     [
+      -122.507030542,
+      37.745409543
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "11081000",
+    "street": "Rivera St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "RIVERA|47TH|48TH",
+    "label": "Rivera St between 47th Ave and 48th Ave",
+    "pos": -122.506494
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504885791,
+      37.745503765
+     ],
+     [
+      -122.505958167,
+      37.745456659
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "11080000",
+    "street": "Rivera St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "RIVERA|46TH|47TH",
+    "label": "Rivera St between 46th Ave and 47th Ave",
+    "pos": -122.505422
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503813138,
+      37.745550873
+     ],
+     [
+      -122.504885791,
+      37.745503765
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "11079000",
+    "street": "Rivera St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "RIVERA|45TH|46TH",
+    "label": "Rivera St between 45th Ave and 46th Ave",
+    "pos": -122.504349
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506896789,
+      37.74354825
+     ],
+     [
+      -122.507193246,
+      37.743535156
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "11640000",
+    "street": "Santiago St",
+    "axis": "ew",
+    "from": "48th Ave",
+    "to": "Lower Great Hwy",
+    "key": "SANTIAGO|48TH|LOWER GREAT",
+    "label": "Santiago St between 48th Ave and Lower Great Hwy",
+    "pos": -122.507045
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50582381,
+      37.743595634
+     ],
+     [
+      -122.506896789,
+      37.74354825
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "11639000",
+    "street": "Santiago St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "SANTIAGO|47TH|48TH",
+    "label": "Santiago St between 47th Ave and 48th Ave",
+    "pos": -122.50636
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504752583,
+      37.743642931
+     ],
+     [
+      -122.50582381,
+      37.743595634
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "11638000",
+    "street": "Santiago St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "SANTIAGO|46TH|47TH",
+    "label": "Santiago St between 46th Ave and 47th Ave",
+    "pos": -122.505288
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503680642,
+      37.74369025
+     ],
+     [
+      -122.504752583,
+      37.743642931
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "11637000",
+    "street": "Santiago St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "SANTIAGO|45TH|46TH",
+    "label": "Santiago St between 45th Ave and 46th Ave",
+    "pos": -122.504217
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505257352,
+      37.735475288
+     ],
+     [
+      -122.505376115,
+      37.735569695
+     ],
+     [
+      -122.506135125,
+      37.735571118
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "11964201",
+    "street": "Sloat Blvd",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "Lower Great Hwy",
+    "key": "SLOAT|47TH|LOWER GREAT",
+    "label": "Sloat Blvd between 47th Ave and Lower Great Hwy",
+    "pos": -122.505696
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504185331,
+      37.735557882
+     ],
+     [
+      -122.50515321,
+      37.735564869
+     ],
+     [
+      -122.505257352,
+      37.735475288
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "11963202",
+    "street": "Sloat Blvd",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "SLOAT|46TH|47TH",
+    "label": "Sloat Blvd between 46th Ave and 47th Ave",
+    "pos": -122.504721
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503104759,
+      37.735466492
+     ],
+     [
+      -122.503218861,
+      37.735550899
+     ],
+     [
+      -122.504185331,
+      37.735557882
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "11963201",
+    "street": "Sloat Blvd",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "SLOAT|45TH|46TH",
+    "label": "Sloat Blvd between 45th Ave and 46th Ave",
+    "pos": -122.503645
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505690988,
+      37.741716205
+     ],
+     [
+      -122.506865452,
+      37.741673016
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "12424000",
+    "street": "Taraval St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "TARAVAL|47TH|48TH",
+    "label": "Taraval St between 47th Ave and 48th Ave",
+    "pos": -122.506278
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504620447,
+      37.741764681
+     ],
+     [
+      -122.505690988,
+      37.741716205
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "12423000",
+    "street": "Taraval St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "TARAVAL|46TH|47TH",
+    "label": "Taraval St between 46th Ave and 47th Ave",
+    "pos": -122.505156
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503548964,
+      37.74181319
+     ],
+     [
+      -122.504620447,
+      37.741764681
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "12422000",
+    "street": "Taraval St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "TARAVAL|45TH|46TH",
+    "label": "Taraval St between 45th Ave and 46th Ave",
+    "pos": -122.504085
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50555976,
+      37.739859244
+     ],
+     [
+      -122.506675737,
+      37.739812384
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "12825000",
+    "street": "Ulloa St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "48th Ave",
+    "key": "ULLOA|47TH|48TH",
+    "label": "Ulloa St between 47th Ave and 48th Ave",
+    "pos": -122.506118
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504489736,
+      37.739906581
+     ],
+     [
+      -122.50555976,
+      37.739859244
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "12824000",
+    "street": "Ulloa St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "ULLOA|46TH|47TH",
+    "label": "Ulloa St between 46th Ave and 47th Ave",
+    "pos": -122.505025
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503418544,
+      37.73995396
+     ],
+     [
+      -122.504489736,
+      37.739906581
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "12823000",
+    "street": "Ulloa St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "ULLOA|45TH|46TH",
+    "label": "Ulloa St between 45th Ave and 46th Ave",
+    "pos": -122.503954
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505428658,
+      37.738003994
+     ],
+     [
+      -122.506435607,
+      37.737959853
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "13274000",
+    "street": "Vicente St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "Lower Great Hwy",
+    "key": "VICENTE|47TH|LOWER GREAT",
+    "label": "Vicente St between 47th Ave and Lower Great Hwy",
+    "pos": -122.505932
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504359198,
+      37.738050867
+     ],
+     [
+      -122.505428658,
+      37.738003994
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "13273000",
+    "street": "Vicente St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "VICENTE|46TH|47TH",
+    "label": "Vicente St between 46th Ave and 47th Ave",
+    "pos": -122.504894
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503288347,
+      37.738097791
+     ],
+     [
+      -122.504359198,
+      37.738050867
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "13272000",
+    "street": "Vicente St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "VICENTE|45TH|46TH",
+    "label": "Vicente St between 45th Ave and 46th Ave",
+    "pos": -122.503824
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505296602,
+      37.736135141
+     ],
+     [
+      -122.506193982,
+      37.736095688
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "13501000",
+    "street": "Wawona St",
+    "axis": "ew",
+    "from": "47th Ave",
+    "to": "Lower Great Hwy",
+    "key": "WAWONA|47TH|LOWER GREAT",
+    "label": "Wawona St between 47th Ave and Lower Great Hwy",
+    "pos": -122.505745
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504227751,
+      37.736182124
+     ],
+     [
+      -122.505296602,
+      37.736135141
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "13500000",
+    "street": "Wawona St",
+    "axis": "ew",
+    "from": "46th Ave",
+    "to": "47th Ave",
+    "key": "WAWONA|46TH|47TH",
+    "label": "Wawona St between 46th Ave and 47th Ave",
+    "pos": -122.504762
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503157281,
+      37.736229168
+     ],
+     [
+      -122.504227751,
+      37.736182124
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "13499000",
+    "street": "Wawona St",
+    "axis": "ew",
+    "from": "45th Ave",
+    "to": "46th Ave",
+    "key": "WAWONA|45TH|46TH",
+    "label": "Wawona St between 45th Ave and 46th Ave",
+    "pos": -122.503693
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505120122,
+      37.764214478
+     ],
+     [
+      -122.504987664,
+      37.762332399
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "1998000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Lincoln Way",
+    "to": "Irving St",
+    "key": "45TH|IRVING|LINCOLN",
+    "label": "45th Ave between Lincoln Way and Irving St",
+    "pos": -37.763273
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504987664,
+      37.762332399
+     ],
+     [
+      -122.504856723,
+      37.760471791
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "1999000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Irving St",
+    "to": "Judah St",
+    "key": "45TH|IRVING|JUDAH",
+    "label": "45th Ave between Irving St and Judah St",
+    "pos": -37.761402
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504856723,
+      37.760471791
+     ],
+     [
+      -122.504725452,
+      37.7586064
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2000000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Judah St",
+    "to": "Kirkham St",
+    "key": "45TH|JUDAH|KIRKHAM",
+    "label": "45th Ave between Judah St and Kirkham St",
+    "pos": -37.759539
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504725452,
+      37.7586064
+     ],
+     [
+      -122.504594138,
+      37.756740294
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2001000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Kirkham St",
+    "to": "Lawton St",
+    "key": "45TH|KIRKHAM|LAWTON",
+    "label": "45th Ave between Kirkham St and Lawton St",
+    "pos": -37.757673
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504594138,
+      37.756740294
+     ],
+     [
+      -122.504463145,
+      37.754878664
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2002000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Lawton St",
+    "to": "Moraga St",
+    "key": "45TH|LAWTON|MORAGA",
+    "label": "45th Ave between Lawton St and Moraga St",
+    "pos": -37.755809
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504463145,
+      37.754878664
+     ],
+     [
+      -122.504333368,
+      37.75301153
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2003000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Moraga St",
+    "to": "Noriega St",
+    "key": "45TH|MORAGA|NORIEGA",
+    "label": "45th Ave between Moraga St and Noriega St",
+    "pos": -37.753945
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504333368,
+      37.75301153
+     ],
+     [
+      -122.504203313,
+      37.75114379
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2004000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Noriega St",
+    "to": "Ortega St",
+    "key": "45TH|NORIEGA|ORTEGA",
+    "label": "45th Ave between Noriega St and Ortega St",
+    "pos": -37.752078
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504203313,
+      37.75114379
+     ],
+     [
+      -122.504073708,
+      37.74928242
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2005000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Ortega St",
+    "to": "Pacheco St",
+    "key": "45TH|ORTEGA|PACHECO",
+    "label": "45th Ave between Ortega St and Pacheco St",
+    "pos": -37.750213
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504073708,
+      37.74928242
+     ],
+     [
+      -122.503941818,
+      37.747414803
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2006000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Pacheco St",
+    "to": "Quintara St",
+    "key": "45TH|PACHECO|QUINTARA",
+    "label": "45th Ave between Pacheco St and Quintara St",
+    "pos": -37.748349
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503941818,
+      37.747414803
+     ],
+     [
+      -122.503813138,
+      37.745550873
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2007000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Quintara St",
+    "to": "Rivera St",
+    "key": "45TH|QUINTARA|RIVERA",
+    "label": "45th Ave between Quintara St and Rivera St",
+    "pos": -37.746483
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503813138,
+      37.745550873
+     ],
+     [
+      -122.503680642,
+      37.74369025
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2008000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Rivera St",
+    "to": "Santiago St",
+    "key": "45TH|RIVERA|SANTIAGO",
+    "label": "45th Ave between Rivera St and Santiago St",
+    "pos": -37.744621
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503680642,
+      37.74369025
+     ],
+     [
+      -122.503548964,
+      37.74181319
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2009000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Santiago St",
+    "to": "Taraval St",
+    "key": "45TH|SANTIAGO|TARAVAL",
+    "label": "45th Ave between Santiago St and Taraval St",
+    "pos": -37.742752
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503548964,
+      37.74181319
+     ],
+     [
+      -122.503418544,
+      37.73995396
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2010000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Taraval St",
+    "to": "Ulloa St",
+    "key": "45TH|TARAVAL|ULLOA",
+    "label": "45th Ave between Taraval St and Ulloa St",
+    "pos": -37.740884
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503418544,
+      37.73995396
+     ],
+     [
+      -122.503288347,
+      37.738097791
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2011000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Ulloa St",
+    "to": "Vicente St",
+    "key": "45TH|ULLOA|VICENTE",
+    "label": "45th Ave between Ulloa St and Vicente St",
+    "pos": -37.739026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503288347,
+      37.738097791
+     ],
+     [
+      -122.503157281,
+      37.736229168
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2012000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Vicente St",
+    "to": "Wawona St",
+    "key": "45TH|VICENTE|WAWONA",
+    "label": "45th Ave between Vicente St and Wawona St",
+    "pos": -37.737163
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.503157281,
+      37.736229168
+     ],
+     [
+      -122.503104759,
+      37.735466492
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2013000",
+    "street": "45th Ave",
+    "axis": "ns",
+    "from": "Wawona St",
+    "to": "Sloat Blvd",
+    "key": "45TH|SLOAT|WAWONA",
+    "label": "45th Ave between Wawona St and Sloat Blvd",
+    "pos": -37.735848
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506191495,
+      37.764166134
+     ],
+     [
+      -122.506059075,
+      37.762284998
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2020000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Lincoln Way",
+    "to": "Irving St",
+    "key": "46TH|IRVING|LINCOLN",
+    "label": "46th Ave between Lincoln Way and Irving St",
+    "pos": -37.763226
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506059075,
+      37.762284998
+     ],
+     [
+      -122.505928111,
+      37.760424427
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2021000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Irving St",
+    "to": "Judah St",
+    "key": "46TH|IRVING|JUDAH",
+    "label": "46th Ave between Irving St and Judah St",
+    "pos": -37.761355
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505928111,
+      37.760424427
+     ],
+     [
+      -122.505796847,
+      37.758559525
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2022000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Judah St",
+    "to": "Kirkham St",
+    "key": "46TH|JUDAH|KIRKHAM",
+    "label": "46th Ave between Judah St and Kirkham St",
+    "pos": -37.759492
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505796847,
+      37.758559525
+     ],
+     [
+      -122.505665482,
+      37.756693075
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2023000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Kirkham St",
+    "to": "Lawton St",
+    "key": "46TH|KIRKHAM|LAWTON",
+    "label": "46th Ave between Kirkham St and Lawton St",
+    "pos": -37.757626
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505665482,
+      37.756693075
+     ],
+     [
+      -122.505534444,
+      37.754831181
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2024000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Lawton St",
+    "to": "Moraga St",
+    "key": "46TH|LAWTON|MORAGA",
+    "label": "46th Ave between Lawton St and Moraga St",
+    "pos": -37.755762
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505534444,
+      37.754831181
+     ],
+     [
+      -122.505405788,
+      37.75296411
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2025000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Moraga St",
+    "to": "Noriega St",
+    "key": "46TH|MORAGA|NORIEGA",
+    "label": "46th Ave between Moraga St and Noriega St",
+    "pos": -37.753898
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505405788,
+      37.75296411
+     ],
+     [
+      -122.505276576,
+      37.751093151
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2026000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Noriega St",
+    "to": "Ortega St",
+    "key": "46TH|NORIEGA|ORTEGA",
+    "label": "46th Ave between Noriega St and Ortega St",
+    "pos": -37.752029
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505276576,
+      37.751093151
+     ],
+     [
+      -122.505148242,
+      37.749234792
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2027000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Ortega St",
+    "to": "Pacheco St",
+    "key": "46TH|ORTEGA|PACHECO",
+    "label": "46th Ave between Ortega St and Pacheco St",
+    "pos": -37.750164
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505148242,
+      37.749234792
+     ],
+     [
+      -122.50501447,
+      37.747367294
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2028000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Pacheco St",
+    "to": "Quintara St",
+    "key": "46TH|PACHECO|QUINTARA",
+    "label": "46th Ave between Pacheco St and Quintara St",
+    "pos": -37.748301
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50501447,
+      37.747367294
+     ],
+     [
+      -122.504885791,
+      37.745503765
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2029000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Quintara St",
+    "to": "Rivera St",
+    "key": "46TH|QUINTARA|RIVERA",
+    "label": "46th Ave between Quintara St and Rivera St",
+    "pos": -37.746436
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504885791,
+      37.745503765
+     ],
+     [
+      -122.504752583,
+      37.743642931
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2030000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Rivera St",
+    "to": "Santiago St",
+    "key": "46TH|RIVERA|SANTIAGO",
+    "label": "46th Ave between Rivera St and Santiago St",
+    "pos": -37.744573
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504752583,
+      37.743642931
+     ],
+     [
+      -122.504620447,
+      37.741764681
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2031000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Santiago St",
+    "to": "Taraval St",
+    "key": "46TH|SANTIAGO|TARAVAL",
+    "label": "46th Ave between Santiago St and Taraval St",
+    "pos": -37.742704
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504620447,
+      37.741764681
+     ],
+     [
+      -122.504489736,
+      37.739906581
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2032000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Taraval St",
+    "to": "Ulloa St",
+    "key": "46TH|TARAVAL|ULLOA",
+    "label": "46th Ave between Taraval St and Ulloa St",
+    "pos": -37.740836
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504489736,
+      37.739906581
+     ],
+     [
+      -122.504359198,
+      37.738050867
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2033000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Ulloa St",
+    "to": "Vicente St",
+    "key": "46TH|ULLOA|VICENTE",
+    "label": "46th Ave between Ulloa St and Vicente St",
+    "pos": -37.738979
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504359198,
+      37.738050867
+     ],
+     [
+      -122.504227751,
+      37.736182124
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2034000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Vicente St",
+    "to": "Wawona St",
+    "key": "46TH|VICENTE|WAWONA",
+    "label": "46th Ave between Vicente St and Wawona St",
+    "pos": -37.737116
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.504227751,
+      37.736182124
+     ],
+     [
+      -122.504185331,
+      37.735557882
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2035000",
+    "street": "46th Ave",
+    "axis": "ns",
+    "from": "Wawona St",
+    "to": "Sloat Blvd",
+    "key": "46TH|SLOAT|WAWONA",
+    "label": "46th Ave between Wawona St and Sloat Blvd",
+    "pos": -37.73587
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507262466,
+      37.764116211
+     ],
+     [
+      -122.507130197,
+      37.762237599
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2043000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Lincoln Way",
+    "to": "Irving St",
+    "key": "47TH|IRVING|LINCOLN",
+    "label": "47th Ave between Lincoln Way and Irving St",
+    "pos": -37.763177
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507130197,
+      37.762237599
+     ],
+     [
+      -122.506999208,
+      37.760377066
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2044000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Irving St",
+    "to": "Judah St",
+    "key": "47TH|IRVING|JUDAH",
+    "label": "47th Ave between Irving St and Judah St",
+    "pos": -37.761307
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506999208,
+      37.760377066
+     ],
+     [
+      -122.506867953,
+      37.758512654
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2045000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Judah St",
+    "to": "Kirkham St",
+    "key": "47TH|JUDAH|KIRKHAM",
+    "label": "47th Ave between Judah St and Kirkham St",
+    "pos": -37.759445
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506867953,
+      37.758512654
+     ],
+     [
+      -122.506736536,
+      37.75664586
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2046000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Kirkham St",
+    "to": "Lawton St",
+    "key": "47TH|KIRKHAM|LAWTON",
+    "label": "47th Ave between Kirkham St and Lawton St",
+    "pos": -37.757579
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506736536,
+      37.75664586
+     ],
+     [
+      -122.506605452,
+      37.7547837
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2047000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Lawton St",
+    "to": "Moraga St",
+    "key": "47TH|LAWTON|MORAGA",
+    "label": "47th Ave between Lawton St and Moraga St",
+    "pos": -37.755715
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506605452,
+      37.7547837
+     ],
+     [
+      -122.506476342,
+      37.752916763
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2048000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Moraga St",
+    "to": "Noriega St",
+    "key": "47TH|MORAGA|NORIEGA",
+    "label": "47th Ave between Moraga St and Noriega St",
+    "pos": -37.75385
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506476342,
+      37.752916763
+     ],
+     [
+      -122.506347527,
+      37.751051944
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2049000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Noriega St",
+    "to": "Ortega St",
+    "key": "47TH|NORIEGA|ORTEGA",
+    "label": "47th Ave between Noriega St and Ortega St",
+    "pos": -37.751984
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506347527,
+      37.751051944
+     ],
+     [
+      -122.506218733,
+      37.749187334
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2050000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Ortega St",
+    "to": "Pacheco St",
+    "key": "47TH|ORTEGA|PACHECO",
+    "label": "47th Ave between Ortega St and Pacheco St",
+    "pos": -37.75012
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506218733,
+      37.749187334
+     ],
+     [
+      -122.506086845,
+      37.747319788
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2051000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Pacheco St",
+    "to": "Quintara St",
+    "key": "47TH|PACHECO|QUINTARA",
+    "label": "47th Ave between Pacheco St and Quintara St",
+    "pos": -37.748254
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506086845,
+      37.747319788
+     ],
+     [
+      -122.505958167,
+      37.745456659
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2052000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Quintara St",
+    "to": "Rivera St",
+    "key": "47TH|QUINTARA|RIVERA",
+    "label": "47th Ave between Quintara St and Rivera St",
+    "pos": -37.746388
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505958167,
+      37.745456659
+     ],
+     [
+      -122.50582381,
+      37.743595634
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2053000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Rivera St",
+    "to": "Santiago St",
+    "key": "47TH|RIVERA|SANTIAGO",
+    "label": "47th Ave between Rivera St and Santiago St",
+    "pos": -37.744526
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50582381,
+      37.743595634
+     ],
+     [
+      -122.505690988,
+      37.741716205
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2054000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Santiago St",
+    "to": "Taraval St",
+    "key": "47TH|SANTIAGO|TARAVAL",
+    "label": "47th Ave between Santiago St and Taraval St",
+    "pos": -37.742656
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505690988,
+      37.741716205
+     ],
+     [
+      -122.50555976,
+      37.739859244
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2055000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Taraval St",
+    "to": "Ulloa St",
+    "key": "47TH|TARAVAL|ULLOA",
+    "label": "47th Ave between Taraval St and Ulloa St",
+    "pos": -37.740788
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50555976,
+      37.739859244
+     ],
+     [
+      -122.505428658,
+      37.738003994
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2056000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Ulloa St",
+    "to": "Vicente St",
+    "key": "47TH|ULLOA|VICENTE",
+    "label": "47th Ave between Ulloa St and Vicente St",
+    "pos": -37.738932
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505428658,
+      37.738003994
+     ],
+     [
+      -122.505362509,
+      37.737067861
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2057000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Vicente St",
+    "to": "Cutler Ave",
+    "key": "47TH|CUTLER|VICENTE",
+    "label": "47th Ave between Vicente St and Cutler Ave",
+    "pos": -37.737536
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505362509,
+      37.737067861
+     ],
+     [
+      -122.505296602,
+      37.736135141
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2058000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Cutler Ave",
+    "to": "Wawona St",
+    "key": "47TH|CUTLER|WAWONA",
+    "label": "47th Ave between Cutler Ave and Wawona St",
+    "pos": -37.736602
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.505296602,
+      37.736135141
+     ],
+     [
+      -122.505257352,
+      37.735475288
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2059000",
+    "street": "47th Ave",
+    "axis": "ns",
+    "from": "Wawona St",
+    "to": "Sloat Blvd",
+    "key": "47TH|SLOAT|WAWONA",
+    "label": "47th Ave between Wawona St and Sloat Blvd",
+    "pos": -37.735805
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.508331369,
+      37.76407602
+     ],
+     [
+      -122.508198574,
+      37.762190312
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2066000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Lincoln Way",
+    "to": "Irving St",
+    "key": "48TH|IRVING|LINCOLN",
+    "label": "48th Ave between Lincoln Way and Irving St",
+    "pos": -37.763133
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.508198574,
+      37.762190312
+     ],
+     [
+      -122.50806756,
+      37.760329816
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2067000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Irving St",
+    "to": "Judah St",
+    "key": "48TH|IRVING|JUDAH",
+    "label": "48th Ave between Irving St and Judah St",
+    "pos": -37.76126
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50806756,
+      37.760329816
+     ],
+     [
+      -122.507936313,
+      37.758465892
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2068000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Judah St",
+    "to": "Kirkham St",
+    "key": "48TH|JUDAH|KIRKHAM",
+    "label": "48th Ave between Judah St and Kirkham St",
+    "pos": -37.759398
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507936313,
+      37.758465892
+     ],
+     [
+      -122.507804844,
+      37.756598756
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2069000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Kirkham St",
+    "to": "Lawton St",
+    "key": "48TH|KIRKHAM|LAWTON",
+    "label": "48th Ave between Kirkham St and Lawton St",
+    "pos": -37.757532
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507804844,
+      37.756598756
+     ],
+     [
+      -122.507673715,
+      37.754736332
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2070000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Lawton St",
+    "to": "Moraga St",
+    "key": "48TH|LAWTON|MORAGA",
+    "label": "48th Ave between Lawton St and Moraga St",
+    "pos": -37.755668
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507673715,
+      37.754736332
+     ],
+     [
+      -122.507545783,
+      37.752869455
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2071000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Moraga St",
+    "to": "Noriega St",
+    "key": "48TH|MORAGA|NORIEGA",
+    "label": "48th Ave between Moraga St and Noriega St",
+    "pos": -37.753803
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507545783,
+      37.752869455
+     ],
+     [
+      -122.507416228,
+      37.751003284
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2072000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Noriega St",
+    "to": "Ortega St",
+    "key": "48TH|NORIEGA|ORTEGA",
+    "label": "48th Ave between Noriega St and Ortega St",
+    "pos": -37.751936
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507416228,
+      37.751003284
+     ],
+     [
+      -122.507286879,
+      37.749139972
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2073000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Ortega St",
+    "to": "Pacheco St",
+    "key": "48TH|ORTEGA|PACHECO",
+    "label": "48th Ave between Ortega St and Pacheco St",
+    "pos": -37.750072
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507286879,
+      37.749139972
+     ],
+     [
+      -122.50715922,
+      37.747272273
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2074000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Pacheco St",
+    "to": "Quintara St",
+    "key": "48TH|PACHECO|QUINTARA",
+    "label": "48th Ave between Pacheco St and Quintara St",
+    "pos": -37.748206
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50715922,
+      37.747272273
+     ],
+     [
+      -122.507030542,
+      37.745409543
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2075000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Quintara St",
+    "to": "Rivera St",
+    "key": "48TH|QUINTARA|RIVERA",
+    "label": "48th Ave between Quintara St and Rivera St",
+    "pos": -37.746341
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507030542,
+      37.745409543
+     ],
+     [
+      -122.506896789,
+      37.74354825
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2076000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Rivera St",
+    "to": "Santiago St",
+    "key": "48TH|RIVERA|SANTIAGO",
+    "label": "48th Ave between Rivera St and Santiago St",
+    "pos": -37.744479
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506896789,
+      37.74354825
+     ],
+     [
+      -122.506773603,
+      37.741764811
+     ],
+     [
+      -122.506865452,
+      37.741673016
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2077000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Santiago St",
+    "to": "Taraval St",
+    "key": "48TH|SANTIAGO|TARAVAL",
+    "label": "48th Ave between Santiago St and Taraval St",
+    "pos": -37.742611
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506865452,
+      37.741673016
+     ],
+     [
+      -122.506752334,
+      37.741598454
+     ],
+     [
+      -122.506625372,
+      37.739911408
+     ],
+     [
+      -122.506675737,
+      37.739812384
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "2078000",
+    "street": "48th Ave",
+    "axis": "ns",
+    "from": "Taraval St",
+    "to": "Ulloa St",
+    "key": "48TH|TARAVAL|ULLOA",
+    "label": "48th Ave between Taraval St and Ulloa St",
+    "pos": -37.740743
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.509402192,
+      37.764032735
+     ],
+     [
+      -122.50926908,
+      37.762142922
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7922000",
+    "street": "La Playa",
+    "axis": "ns",
+    "from": "Lincoln Way",
+    "to": "Irving St",
+    "key": "LA PLAYA|IRVING|LINCOLN",
+    "label": "La Playa between Lincoln Way and Irving St",
+    "pos": -37.763088
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50926908,
+      37.762142922
+     ],
+     [
+      -122.509141223,
+      37.760282322
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7923000",
+    "street": "La Playa",
+    "axis": "ns",
+    "from": "Irving St",
+    "to": "Judah St",
+    "key": "LA PLAYA|IRVING|JUDAH",
+    "label": "La Playa between Irving St and Judah St",
+    "pos": -37.761213
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.509141223,
+      37.760282322
+     ],
+     [
+      -122.509015417,
+      37.758496058
+     ],
+     [
+      -122.50911129,
+      37.758414453
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "7924000",
+    "street": "La Playa",
+    "axis": "ns",
+    "from": "Judah St",
+    "to": "Kirkham St",
+    "key": "LA PLAYA|JUDAH|KIRKHAM",
+    "label": "La Playa between Judah St and Kirkham St",
+    "pos": -37.759348
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.509833065,
+      37.763969287
+     ],
+     [
+      -122.509817376,
+      37.763728973
+     ],
+     [
+      -122.509760349,
+      37.763273495
+     ],
+     [
+      -122.509622174,
+      37.762127288
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8508000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Lincoln Way",
+    "to": "Irving St",
+    "key": "LOWER GREAT|IRVING|LINCOLN",
+    "label": "Lower Great Hwy between Lincoln Way and Irving St",
+    "pos": -37.763048
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.509622174,
+      37.762127288
+     ],
+     [
+      -122.509381622,
+      37.760271686
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8509000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Irving St",
+    "to": "Judah St",
+    "key": "LOWER GREAT|IRVING|JUDAH",
+    "label": "Lower Great Hwy between Irving St and Judah St",
+    "pos": -37.761199
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.509381622,
+      37.760271686
+     ],
+     [
+      -122.50916589,
+      37.758488075
+     ],
+     [
+      -122.50911129,
+      37.758414453
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8510000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Judah St",
+    "to": "Kirkham St",
+    "key": "LOWER GREAT|JUDAH|KIRKHAM",
+    "label": "Lower Great Hwy between Judah St and Kirkham St",
+    "pos": -37.759343
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50911129,
+      37.758414453
+     ],
+     [
+      -122.508902544,
+      37.75655123
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8511000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Kirkham St",
+    "to": "Lawton St",
+    "key": "LOWER GREAT|KIRKHAM|LAWTON",
+    "label": "Lower Great Hwy between Kirkham St and Lawton St",
+    "pos": -37.757483
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.508902544,
+      37.75655123
+     ],
+     [
+      -122.508833919,
+      37.755991311
+     ],
+     [
+      -122.508679285,
+      37.754691735
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8512000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Lawton St",
+    "to": "Moraga St",
+    "key": "LOWER GREAT|LAWTON|MORAGA",
+    "label": "Lower Great Hwy between Lawton St and Moraga St",
+    "pos": -37.755621
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.508679285,
+      37.754691735
+     ],
+     [
+      -122.508432397,
+      37.752830227
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8513000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Moraga St",
+    "to": "Noriega St",
+    "key": "LOWER GREAT|MORAGA|NORIEGA",
+    "label": "Lower Great Hwy between Moraga St and Noriega St",
+    "pos": -37.753761
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.508432397,
+      37.752830227
+     ],
+     [
+      -122.508186651,
+      37.7509682
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8514000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Noriega St",
+    "to": "Ortega St",
+    "key": "LOWER GREAT|NORIEGA|ORTEGA",
+    "label": "Lower Great Hwy between Noriega St and Ortega St",
+    "pos": -37.751899
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.508186651,
+      37.7509682
+     ],
+     [
+      -122.507941547,
+      37.749110937
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8515000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Ortega St",
+    "to": "Pacheco St",
+    "key": "LOWER GREAT|ORTEGA|PACHECO",
+    "label": "Lower Great Hwy between Ortega St and Pacheco St",
+    "pos": -37.75004
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507941547,
+      37.749110937
+     ],
+     [
+      -122.507694895,
+      37.747248534
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8516000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Pacheco St",
+    "to": "Quintara St",
+    "key": "LOWER GREAT|PACHECO|QUINTARA",
+    "label": "Lower Great Hwy between Pacheco St and Quintara St",
+    "pos": -37.74818
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507694895,
+      37.747248534
+     ],
+     [
+      -122.507442626,
+      37.745391435
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8517000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Quintara St",
+    "to": "Rivera St",
+    "key": "LOWER GREAT|QUINTARA|RIVERA",
+    "label": "Lower Great Hwy between Quintara St and Rivera St",
+    "pos": -37.74632
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507442626,
+      37.745391435
+     ],
+     [
+      -122.507313784,
+      37.744444337
+     ],
+     [
+      -122.507193246,
+      37.743535156
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8518000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Rivera St",
+    "to": "Santiago St",
+    "key": "LOWER GREAT|RIVERA|SANTIAGO",
+    "label": "Lower Great Hwy between Rivera St and Santiago St",
+    "pos": -37.744463
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.507193246,
+      37.743535156
+     ],
+     [
+      -122.507006772,
+      37.742128601
+     ],
+     [
+      -122.50695486,
+      37.741759732
+     ],
+     [
+      -122.506865452,
+      37.741673016
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8519000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Santiago St",
+    "to": "Taraval St",
+    "key": "LOWER GREAT|SANTIAGO|TARAVAL",
+    "label": "Lower Great Hwy between Santiago St and Taraval St",
+    "pos": -37.742604
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506865452,
+      37.741673016
+     ],
+     [
+      -122.50693495,
+      37.741595344
+     ],
+     [
+      -122.506675737,
+      37.739812384
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8520000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Taraval St",
+    "to": "Ulloa St",
+    "key": "LOWER GREAT|TARAVAL|ULLOA",
+    "label": "Lower Great Hwy between Taraval St and Ulloa St",
+    "pos": -37.740743
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506675737,
+      37.739812384
+     ],
+     [
+      -122.506435607,
+      37.737959853
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8521000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Ulloa St",
+    "to": "Vicente St",
+    "key": "LOWER GREAT|ULLOA|VICENTE",
+    "label": "Lower Great Hwy between Ulloa St and Vicente St",
+    "pos": -37.738886
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506435607,
+      37.737959853
+     ],
+     [
+      -122.50631414,
+      37.73702273
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8522000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Vicente St",
+    "to": "Cutler Ave",
+    "key": "LOWER GREAT|CUTLER|VICENTE",
+    "label": "Lower Great Hwy between Vicente St and Cutler Ave",
+    "pos": -37.737491
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.50631414,
+      37.73702273
+     ],
+     [
+      -122.506193982,
+      37.736095688
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8523000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Cutler Ave",
+    "to": "Wawona St",
+    "key": "LOWER GREAT|CUTLER|WAWONA",
+    "label": "Lower Great Hwy between Cutler Ave and Wawona St",
+    "pos": -37.736559
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.506193982,
+      37.736095688
+     ],
+     [
+      -122.506135125,
+      37.735571118
+     ]
+    ]
+   },
+   "properties": {
+    "cnn": "8524000",
+    "street": "Lower Great Hwy",
+    "axis": "ns",
+    "from": "Wawona St",
+    "to": "Sloat Blvd",
+    "key": "LOWER GREAT|SLOAT|WAWONA",
+    "label": "Lower Great Hwy between Wawona St and Sloat Blvd",
+    "pos": -37.735833
+   }
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Outer Sunset Window Sign Census</title>
+<meta name="description" content="A block-by-block count of the Outer Sunset homes showing a Prop G window sign, from 45th Avenue west to the ocean.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <p class="eyebrow">Window sign census</p>
+    <h1>The Outer Sunset is covered in signs for Sunset Dunes park.</h1>
+    <p class="standfirst">
+      We counted every block by hand from 45th Ave west to the ocean, Lincoln to
+      Sloat: how many homes have <strong>No on G / I &hearts; Sunset Dunes</strong>
+      signs, and how many have <strong>Yes on G / Open the Great Highway</strong>
+      signs.
+    </p>
+  </div>
+</header>
+
+<section class="wrap headline">
+  <div class="bigstat" id="bigstat"></div>
+  <div class="statgrid" id="statgrid"></div>
+</section>
+
+<section class="wrap split">
+  <div class="mapcol">
+    <div class="mapcard">
+      <h2>Block by block</h2>
+      <div id="map" aria-label="Map of the Outer Sunset with each surveyed block coloured by which side led"></div>
+      <div class="legend" id="legend"></div>
+      <div class="scale" id="scale"></div>
+    </div>
+  </div>
+
+  <div class="datacol">
+    <div class="card">
+      <h2>By street</h2>
+      <p class="sub">Homes showing <b class="k-no">No on G/Pro-Sunset Dunes</b> and
+        <b class="k-yes">Yes on G/Open the Great Highway</b>.</p>
+      <div id="streets"></div>
+    </div>
+
+    <div class="card">
+      <h2>Every block</h2>
+      <p class="sub">Sorted by how many homes are showing a sign.
+        <span id="blockcount"></span></p>
+      <div class="tablewrap"><table id="blocktable"></table></div>
+    </div>
+  </div>
+</section>
+
+<footer class="wrap method">
+  <h2>How this was counted</h2>
+  <div class="methodgrid" id="method"></div>
+  <p class="contact">Questions? Corrections? Feedback? Email
+    <a href="mailto:sunsetsigncensus@proton.me">sunsetsigncensus@proton.me</a></p>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="data/data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

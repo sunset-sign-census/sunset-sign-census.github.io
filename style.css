@@ -1,0 +1,267 @@
+:root {
+  --bg: #fbfaf7;
+  --surface: #ffffff;
+  --ink: #16191c;
+  --ink-soft: #5b636b;
+  --ink-faint: #8b949c;
+  --line: #e3e0d8;
+  /* Four steps per side: more signs on the block = thicker and deeper. */
+  --no-1: #8ccdb1; --no-2: #3ba57e; --no-3: #0f7553; --no-4: #064c33;
+  --yes-1: #f6cd9c; --yes-2: #eca44f; --yes-3: #cf7105; --yes-4: #a85709;
+  --no: #0f7553;          /* No on G -- keep the park */
+  --no-deep: #0a5b3e;
+  --yes: #cf7105;         /* Yes on G -- reopen the highway */
+  --yes-deep: #9a4f04;
+  --tie: #64748b;
+  --none: #c9cdd2;
+  --unsurveyed: #dcdfe3;
+  --park: #b6c4bb;        /* Sunset Dunes, drawn behind the blocks */
+  --accent: var(--no);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #14161a;
+    --surface: #1c1f24;
+    --ink: #eef1f4;
+    --ink-soft: #a5adb6;
+    --ink-faint: #767f89;
+    --line: #2c3138;
+    --no-1: #2c6952; --no-2: #3f9873; --no-3: #55c396; --no-4: #8aebbe;
+    --yes-1: #7c5526; --yes-2: #b87c30; --yes-3: #efa340; --yes-4: #ffcd85;
+    --no: #55c396;
+    --no-deep: #4fc79a;
+    --yes: #efa340;
+    --yes-deep: #f7bd6b;
+    --tie: #8b98a8;
+    --none: #454b53;
+    --unsurveyed: #333940; --park: #3c4a43;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #14161a; --surface: #1c1f24; --ink: #eef1f4; --ink-soft: #a5adb6;
+  --ink-faint: #767f89; --line: #2c3138; --no: #55c396; --no-deep: #4fc79a;
+  --yes: #efa340; --yes-deep: #f7bd6b; --tie: #8b98a8; --none: #454b53;
+  --no-1: #2c6952; --no-2: #3f9873; --no-3: #55c396; --no-4: #8aebbe;
+  --yes-1: #7c5526; --yes-2: #b87c30; --yes-3: #efa340; --yes-4: #ffcd85;
+  --unsurveyed: #333940; --park: #3c4a43;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 16px/1.55 ui-sans-serif, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px; }
+
+/* ---------- masthead ---------- */
+.masthead { padding: 56px 0 34px; border-bottom: 1px solid var(--line); }
+.eyebrow {
+  margin: 0 0 12px; font-size: 12px; font-weight: 650; letter-spacing: .14em;
+  text-transform: uppercase; color: var(--accent);
+}
+h1 {
+  margin: 0; font-size: clamp(30px, 5.2vw, 50px); line-height: 1.08;
+  letter-spacing: -.022em; font-weight: 700; max-width: 17ch;
+}
+.standfirst {
+  margin: 18px 0 0; max-width: 60ch; font-size: 17px; color: var(--ink-soft);
+}
+.standfirst strong { color: var(--ink); font-weight: 600; }
+
+/* ---------- headline numbers ---------- */
+.headline { padding: 40px 16px 8px; }
+.bigstat { margin-bottom: 28px; }
+.bigbar {
+  display: flex; height: 88px; border-radius: 10px; overflow: hidden;
+  border: 1px solid var(--line);
+}
+.bigbar div {
+  display: flex; align-items: center; gap: 12px; padding: 0 14px;
+  color: #fff; font-weight: 650; white-space: nowrap;
+  min-width: 0; overflow: hidden;
+  /* Each segment is its own container so a logo can drop out when the
+     segment gets too narrow to hold it -- the Yes side is only ~17% wide. */
+  container-type: inline-size;
+}
+.bigbar .bb-yes { justify-content: flex-end; }
+
+/* Both campaign logos are self-contained badges with their own borders, so
+   they need no backing chip. The width cap keeps the Yes logo -- which is 2.5:1
+   against the No sticker's 1.2:1 -- from crowding out its own segment. */
+.barlogo {
+  height: 48px; max-width: 120px; width: auto; object-fit: contain;
+  flex: 0 0 auto;
+}
+/* The No side owns 83% of the bar, so its logo can run nearly full height.
+   The Yes logo stays smaller -- it is 2.5:1 and its segment is only ~17%. */
+.bb-no .barlogo { height: 72px; max-width: none; }
+@container (max-width: 180px) { .barlogo { display: none; } }
+.bigbar .bb-no { background: var(--no); }
+.bigbar .bb-yes { background: var(--yes); }
+/* Count over share, stacked -- side by side they would not fit the Yes
+   segment, which is only ~17% of the bar. */
+.barnum { display: flex; flex-direction: column; line-height: 1.06; min-width: 0; }
+.barnum b { font-size: 25px; font-variant-numeric: tabular-nums; }
+.barnum i {
+  font-style: normal; font-size: 13px; font-weight: 600;
+  opacity: .88; font-variant-numeric: tabular-nums;
+}
+.bb-yes .barnum { align-items: flex-end; }
+.barkey { display: flex; flex-wrap: wrap; gap: 6px 22px; margin-top: 11px; }
+.barkey span { display: flex; align-items: center; font-size: 13.5px; color: var(--ink-soft); }
+.barkey i { width: 11px; height: 11px; border-radius: 3px; margin-right: 8px; }
+.barkey .k-no { background: var(--no); }
+.barkey .k-yes { background: var(--yes); }
+/* The headline finding -- sized to be read, not skimmed past. */
+.bigcap {
+  margin: 18px 2px 0;
+  font-size: clamp(18px, 2vw, 22px); line-height: 1.4;
+  letter-spacing: -.011em; color: var(--ink);
+}
+.bigcap strong { font-weight: 700; }
+
+.statgrid {
+  display: grid; gap: 14px;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+}
+.stat {
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: 10px; padding: 16px 18px;
+}
+.stat .n {
+  font-size: 30px; font-weight: 700; letter-spacing: -.02em;
+  font-variant-numeric: tabular-nums; line-height: 1.1;
+}
+.stat .k { margin-top: 5px; font-size: 13px; color: var(--ink-soft); }
+
+/* ---------- layout ---------- */
+/* The census area is a tall, narrow strip, so the map column is the wide one
+   and the data tables take the remainder. */
+.split {
+  display: grid; gap: 22px; padding: 30px 16px 10px;
+  grid-template-columns: minmax(420px, 1.35fr) 1fr;
+  align-items: start;
+}
+@media (max-width: 900px) { .split { grid-template-columns: 1fr; } }
+
+.card, .mapcard {
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: 12px; padding: 18px 20px; margin-bottom: 22px;
+}
+.card h2, .mapcard h2 { margin: 0 0 3px; font-size: 17px; letter-spacing: -.01em; }
+.sub { margin: 0 0 14px; font-size: 13px; color: var(--ink-faint); }
+.sub b.k-no { color: var(--no-deep); font-weight: 650; }
+.sub b.k-yes { color: var(--yes-deep); font-weight: 650; }
+
+.mapcol { position: sticky; top: 16px; }
+@media (max-width: 900px) { .mapcol { position: static; } }
+
+#map {
+  height: min(84vh, 880px); margin-top: 14px; border-radius: 9px;
+  border: 1px solid var(--line); background: var(--bg);
+}
+.hint { margin: 14px 2px 0; font-size: 12.5px; color: var(--ink-faint); }
+
+.legend { display: flex; flex-wrap: wrap; gap: 8px 16px; margin-top: 14px; }
+.legend i {
+  display: inline-block; width: 22px; height: 5px; border-radius: 3px;
+  margin-right: 7px; vertical-align: middle;
+}
+.legend span { font-size: 12.5px; color: var(--ink-soft); white-space: nowrap; }
+
+.scale { display: flex; align-items: center; flex-wrap: wrap; gap: 6px 14px; margin-top: 10px; }
+.scale > b {
+  font-size: 11px; font-weight: 650; letter-spacing: .07em; text-transform: uppercase;
+  color: var(--ink-faint);
+}
+.scale span { display: flex; align-items: center; gap: 7px; font-size: 12.5px; color: var(--ink-soft); }
+.scale i { display: inline-block; width: 22px; border-radius: 3px; }
+
+/* ---------- street bars ---------- */
+.srow { display: grid; grid-template-columns: 124px 1fr 76px; gap: 12px; align-items: center; padding: 6px 0; }
+.srow + .srow { border-top: 1px solid var(--line); }
+.sname { font-size: 13.5px; font-weight: 550; }
+.sname em { display: block; font-style: normal; font-size: 11.5px; color: var(--ink-faint); font-weight: 400; }
+.sbar { display: flex; height: 17px; border-radius: 4px; overflow: hidden; background: var(--unsurveyed); }
+.sbar .b-no { background: var(--no); }
+.sbar .b-yes { background: var(--yes); }
+.snum { font-size: 12.5px; color: var(--ink-soft); text-align: right; font-variant-numeric: tabular-nums; }
+.snum b { color: var(--no-deep); }
+.snum i { font-style: normal; color: var(--yes-deep); }
+.shead { font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-faint); margin: 16px 0 2px; font-weight: 650; }
+.shead:first-child { margin-top: 0; }
+
+/* ---------- table ---------- */
+.tablewrap { max-height: 460px; overflow: auto; border: 1px solid var(--line); border-radius: 8px; }
+table { border-collapse: collapse; width: 100%; font-size: 13.5px; }
+th, td { padding: 7px 11px; text-align: left; border-bottom: 1px solid var(--line); }
+th {
+  position: sticky; top: 0; background: var(--surface); z-index: 1;
+  font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--ink-faint); font-weight: 650;
+}
+td.n { text-align: right; font-variant-numeric: tabular-nums; width: 1%; white-space: nowrap; }
+td.n.no { color: var(--no-deep); font-weight: 600; }
+td.n.yes { color: var(--yes-deep); font-weight: 600; }
+tbody tr { cursor: pointer; }
+tbody tr:hover { background: color-mix(in srgb, var(--accent) 8%, transparent); }
+tbody tr.on { background: color-mix(in srgb, var(--accent) 14%, transparent); }
+td .tag { font-size: 11px; color: var(--ink-faint); }
+
+/* ---------- method ---------- */
+.method { padding: 26px 16px 70px; border-top: 1px solid var(--line); margin-top: 26px; }
+.method h2 { font-size: 17px; margin: 0 0 14px; }
+.methodgrid { display: grid; gap: 18px 30px; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr)); }
+.methodgrid h3 { margin: 0 0 5px; font-size: 13.5px; }
+.methodgrid p { margin: 0; font-size: 13.5px; color: var(--ink-soft); }
+.methodgrid ul { margin: 6px 0 0; padding-left: 18px; font-size: 13.5px; color: var(--ink-soft); }
+.methodgrid li { margin-bottom: 3px; }
+
+.contact {
+  margin: 30px 0 0; padding-top: 22px; border-top: 1px solid var(--line);
+  font-size: 14.5px; color: var(--ink-soft);
+}
+.contact a {
+  color: var(--accent); font-weight: 600;
+  text-decoration: underline; text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+}
+.contact a:hover { text-decoration-thickness: 2px; }
+
+.xlabel {
+  font-size: 10px; font-weight: 650; letter-spacing: .01em;
+  color: var(--ink-faint); white-space: nowrap;
+  margin: -7px 0 0 9px; pointer-events: none;
+  text-shadow: 0 0 3px var(--surface), 0 0 3px var(--surface), 0 0 2px var(--surface);
+}
+
+/* ---------- leaflet ---------- */
+.leaflet-container { background: var(--bg); font: inherit; border-radius: 8px; }
+.leaflet-tooltip.blocktip {
+  background: var(--surface); color: var(--ink); border: 1px solid var(--line);
+  border-radius: 7px; box-shadow: 0 4px 16px rgba(0,0,0,.14);
+  font-size: 13px; padding: 8px 11px; line-height: 1.4;
+}
+.leaflet-tooltip.blocktip::before { display: none; }
+.blocktip b { display: block; margin-bottom: 6px; font-size: 13px; }
+.blocktip .tiprow {
+  display: grid; grid-template-columns: 9px 1fr auto; gap: 0 9px;
+  align-items: center; margin-top: 3px;
+}
+.blocktip .tiprow i { width: 9px; height: 9px; border-radius: 2px; }
+.blocktip .tiprow .sw-no { background: var(--no); }
+.blocktip .tiprow .sw-yes { background: var(--yes); }
+.blocktip .tiprow span { color: var(--ink-soft); }
+.blocktip .tiprow em {
+  font-style: normal; font-weight: 700; font-variant-numeric: tabular-nums;
+}
+.blocktip .r { color: var(--ink-soft); }
+.blocktip .r b { display: inline; }
+.leaflet-control-attribution { font-size: 10px; background: color-mix(in srgb, var(--surface) 85%, transparent) !important; }
+.leaflet-control-attribution a { color: var(--ink-soft); }

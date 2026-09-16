@@ -1,0 +1,150 @@
+key,cnn,street,from,to,label,axis,yes,no,status,note,run
+CUTLER|47TH|LOWER GREAT,4562000,Cutler Ave,47th Ave,Lower Great Hwy,Cutler Ave between 47th Ave and Lower Great Hwy,ew,0,0,counted,,one-block stub off Lower Great Hwy
+IRVING|LA PLAYA|LOWER GREAT,7327000,Irving St,La Playa,Lower Great Hwy,Irving St between La Playa and Lower Great Hwy,ew,0,0,counted,,notes: 'I'
+IRVING|48TH|LA PLAYA,7326000,Irving St,48th Ave,La Playa,Irving St between 48th Ave and La Playa,ew,0,1,counted,,notes: 'I'
+IRVING|47TH|48TH,7325000,Irving St,47th Ave,48th Ave,Irving St between 47th Ave and 48th Ave,ew,0,1,counted,,notes: 'I'
+IRVING|46TH|47TH,7324000,Irving St,46th Ave,47th Ave,Irving St between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'I'
+IRVING|45TH|46TH,7323000,Irving St,45th Ave,46th Ave,Irving St between 45th Ave and 46th Ave,ew,0,0,counted,,notes: 'I'
+JUDAH|LA PLAYA|LOWER GREAT,7686000,Judah St,La Playa,Lower Great Hwy,Judah St between La Playa and Lower Great Hwy,ew,0,0,counted,,notes: 'J' (nil)
+JUDAH|48TH|LA PLAYA,7685000,Judah St,48th Ave,La Playa,Judah St between 48th Ave and La Playa,ew,0,0,counted,,notes: 'J' (nil)
+JUDAH|47TH|48TH,7684000,Judah St,47th Ave,48th Ave,Judah St between 47th Ave and 48th Ave,ew,0,0,counted,,notes: 'J' (nil)
+JUDAH|46TH|47TH,7683000,Judah St,46th Ave,47th Ave,Judah St between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'J' (nil)
+JUDAH|45TH|46TH,7682000,Judah St,45th Ave,46th Ave,Judah St between 45th Ave and 46th Ave,ew,0,0,counted,,notes: 'J' (nil)
+KIRKHAM|48TH|LOWER GREAT,7888000,Kirkham St,48th Ave,Lower Great Hwy,Kirkham St between 48th Ave and Lower Great Hwy,ew,1,0,counted,,notes: 'K'
+KIRKHAM|47TH|48TH,7887000,Kirkham St,47th Ave,48th Ave,Kirkham St between 47th Ave and 48th Ave,ew,0,3,counted,,notes: 'K'
+KIRKHAM|46TH|47TH,7886000,Kirkham St,46th Ave,47th Ave,Kirkham St between 46th Ave and 47th Ave,ew,0,1,counted,,notes: 'K'
+KIRKHAM|45TH|46TH,7885000,Kirkham St,45th Ave,46th Ave,Kirkham St between 45th Ave and 46th Ave,ew,0,0,counted,,notes: 'K'
+LAWTON|48TH|LOWER GREAT,8229000,Lawton St,48th Ave,Lower Great Hwy,Lawton St between 48th Ave and Lower Great Hwy,ew,0,0,counted,,notes: 'L' (first L)
+LAWTON|47TH|48TH,8228000,Lawton St,47th Ave,48th Ave,Lawton St between 47th Ave and 48th Ave,ew,0,0,counted,,notes: 'L' (first L)
+LAWTON|46TH|47TH,8227000,Lawton St,46th Ave,47th Ave,Lawton St between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'L' (first L)
+LAWTON|45TH|46TH,8226000,Lawton St,45th Ave,46th Ave,Lawton St between 45th Ave and 46th Ave,ew,0,1,counted,,notes: 'L' (first L)
+LINCOLN|LOWER GREAT|MLK,8387101,Lincoln Way,MLK Jr Dr,Lower Great Hwy,Lincoln Way between MLK Jr Dr and Lower Great Hwy,ew,,,no residences,no buildings; Beach Chalet frontage,notes: 'L' (second L); westernmost block is Beach Chalet frontage
+LINCOLN|48TH|MLK,8386101,Lincoln Way,48th Ave,MLK Jr Dr,Lincoln Way between 48th Ave and MLK Jr Dr,ew,0,0,counted,,notes: 'L' (second L); westernmost block is Beach Chalet frontage
+LINCOLN|47TH|48TH,8385101,Lincoln Way,47th Ave,48th Ave,Lincoln Way between 47th Ave and 48th Ave,ew,0,0,counted,,notes: 'L' (second L); westernmost block is Beach Chalet frontage
+LINCOLN|46TH|47TH,8384101,Lincoln Way,46th Ave,47th Ave,Lincoln Way between 46th Ave and 47th Ave,ew,0,1,counted,,notes: 'L' (second L); westernmost block is Beach Chalet frontage
+LINCOLN|45TH|46TH,8383101,Lincoln Way,45th Ave,46th Ave,Lincoln Way between 45th Ave and 46th Ave,ew,0,0,counted,,notes: 'L' (second L); westernmost block is Beach Chalet frontage
+MORAGA|48TH|LOWER GREAT,9374000,Moraga St,48th Ave,Lower Great Hwy,Moraga St between 48th Ave and Lower Great Hwy,ew,0,0,counted,,notes: 'M'
+MORAGA|47TH|48TH,9373000,Moraga St,47th Ave,48th Ave,Moraga St between 47th Ave and 48th Ave,ew,0,1,counted,,notes: 'M'
+MORAGA|46TH|47TH,9372000,Moraga St,46th Ave,47th Ave,Moraga St between 46th Ave and 47th Ave,ew,2,2,counted,,notes: 'M'
+MORAGA|45TH|46TH,9371000,Moraga St,45th Ave,46th Ave,Moraga St between 45th Ave and 46th Ave,ew,0,0,counted,,notes: 'M'
+NORIEGA|48TH|LOWER GREAT,9683000,Noriega St,48th Ave,Lower Great Hwy,Noriega St between 48th Ave and Lower Great Hwy,ew,0,2,counted,,notes: 'N'
+NORIEGA|47TH|48TH,9682000,Noriega St,47th Ave,48th Ave,Noriega St between 47th Ave and 48th Ave,ew,0,1,counted,,notes: 'N'
+NORIEGA|46TH|47TH,9681000,Noriega St,46th Ave,47th Ave,Noriega St between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'N'
+NORIEGA|45TH|46TH,9680000,Noriega St,45th Ave,46th Ave,Noriega St between 45th Ave and 46th Ave,ew,0,0,counted,,notes: 'N'
+ORTEGA|48TH|LOWER GREAT,10037000,Ortega St,48th Ave,Lower Great Hwy,Ortega St between 48th Ave and Lower Great Hwy,ew,0,1,counted,,notes: 'O'
+ORTEGA|47TH|48TH,10036000,Ortega St,47th Ave,48th Ave,Ortega St between 47th Ave and 48th Ave,ew,0,0,counted,,notes: 'O'
+ORTEGA|46TH|47TH,10035000,Ortega St,46th Ave,47th Ave,Ortega St between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'O'
+ORTEGA|45TH|46TH,10034000,Ortega St,45th Ave,46th Ave,Ortega St between 45th Ave and 46th Ave,ew,0,1,counted,,notes: 'O'
+PACHECO|48TH|LOWER GREAT,10117000,Pacheco St,48th Ave,Lower Great Hwy,Pacheco St between 48th Ave and Lower Great Hwy,ew,0,0,counted,,notes: 'P' (nil)
+PACHECO|47TH|48TH,10116000,Pacheco St,47th Ave,48th Ave,Pacheco St between 47th Ave and 48th Ave,ew,0,0,counted,,notes: 'P' (nil)
+PACHECO|46TH|47TH,10115000,Pacheco St,46th Ave,47th Ave,Pacheco St between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'P' (nil)
+PACHECO|45TH|46TH,10114000,Pacheco St,45th Ave,46th Ave,Pacheco St between 45th Ave and 46th Ave,ew,0,0,counted,,notes: 'P' (nil)
+QUINTARA|48TH|LOWER GREAT,10883000,Quintara St,48th Ave,Lower Great Hwy,Quintara St between 48th Ave and Lower Great Hwy,ew,0,1,counted,,notes: 'Q'
+QUINTARA|47TH|48TH,10882000,Quintara St,47th Ave,48th Ave,Quintara St between 47th Ave and 48th Ave,ew,0,0,counted,,notes: 'Q'
+QUINTARA|46TH|47TH,10881000,Quintara St,46th Ave,47th Ave,Quintara St between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'Q'
+QUINTARA|45TH|46TH,10880000,Quintara St,45th Ave,46th Ave,Quintara St between 45th Ave and 46th Ave,ew,0,1,counted,,notes: 'Q'
+RIVERA|48TH|LOWER GREAT,11082000,Rivera St,48th Ave,Lower Great Hwy,Rivera St between 48th Ave and Lower Great Hwy,ew,0,0,counted,,notes: 'R'
+RIVERA|47TH|48TH,11081000,Rivera St,47th Ave,48th Ave,Rivera St between 47th Ave and 48th Ave,ew,0,0,counted,,notes: 'R'
+RIVERA|46TH|47TH,11080000,Rivera St,46th Ave,47th Ave,Rivera St between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'R'
+RIVERA|45TH|46TH,11079000,Rivera St,45th Ave,46th Ave,Rivera St between 45th Ave and 46th Ave,ew,0,1,counted,,notes: 'R'
+SANTIAGO|48TH|LOWER GREAT,11640000,Santiago St,48th Ave,Lower Great Hwy,Santiago St between 48th Ave and Lower Great Hwy,ew,0,0,counted,,notes: 'S' (nil)
+SANTIAGO|47TH|48TH,11639000,Santiago St,47th Ave,48th Ave,Santiago St between 47th Ave and 48th Ave,ew,0,0,counted,,notes: 'S' (nil)
+SANTIAGO|46TH|47TH,11638000,Santiago St,46th Ave,47th Ave,Santiago St between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'S' (nil)
+SANTIAGO|45TH|46TH,11637000,Santiago St,45th Ave,46th Ave,Santiago St between 45th Ave and 46th Ave,ew,0,0,counted,,notes: 'S' (nil)
+SLOAT|47TH|LOWER GREAT,11964201,Sloat Blvd,47th Ave,Lower Great Hwy,Sloat Blvd between 47th Ave and Lower Great Hwy,ew,0,1,counted,,notes: 'Sloat'
+SLOAT|46TH|47TH,11963202,Sloat Blvd,46th Ave,47th Ave,Sloat Blvd between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'Sloat'
+SLOAT|45TH|46TH,11963201,Sloat Blvd,45th Ave,46th Ave,Sloat Blvd between 45th Ave and 46th Ave,ew,0,0,counted,,notes: 'Sloat'
+TARAVAL|47TH|48TH,12424000,Taraval St,47th Ave,48th Ave,Taraval St between 47th Ave and 48th Ave,ew,0,0,counted,,notes: 'T' (nil)
+TARAVAL|46TH|47TH,12423000,Taraval St,46th Ave,47th Ave,Taraval St between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'T' (nil)
+TARAVAL|45TH|46TH,12422000,Taraval St,45th Ave,46th Ave,Taraval St between 45th Ave and 46th Ave,ew,0,0,counted,,notes: 'T' (nil)
+ULLOA|47TH|48TH,12825000,Ulloa St,47th Ave,48th Ave,Ulloa St between 47th Ave and 48th Ave,ew,0,0,counted,,notes: 'U'
+ULLOA|46TH|47TH,12824000,Ulloa St,46th Ave,47th Ave,Ulloa St between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'U'
+ULLOA|45TH|46TH,12823000,Ulloa St,45th Ave,46th Ave,Ulloa St between 45th Ave and 46th Ave,ew,1,1,counted,,notes: 'U'
+VICENTE|47TH|LOWER GREAT,13274000,Vicente St,47th Ave,Lower Great Hwy,Vicente St between 47th Ave and Lower Great Hwy,ew,0,0,counted,,notes: 'V'
+VICENTE|46TH|47TH,13273000,Vicente St,46th Ave,47th Ave,Vicente St between 46th Ave and 47th Ave,ew,0,1,counted,,notes: 'V'
+VICENTE|45TH|46TH,13272000,Vicente St,45th Ave,46th Ave,Vicente St between 45th Ave and 46th Ave,ew,0,0,counted,,notes: 'V'
+WAWONA|47TH|LOWER GREAT,13501000,Wawona St,47th Ave,Lower Great Hwy,Wawona St between 47th Ave and Lower Great Hwy,ew,0,0,counted,,notes: 'W' (all nil)
+WAWONA|46TH|47TH,13500000,Wawona St,46th Ave,47th Ave,Wawona St between 46th Ave and 47th Ave,ew,0,0,counted,,notes: 'W' (all nil)
+WAWONA|45TH|46TH,13499000,Wawona St,45th Ave,46th Ave,Wawona St between 45th Ave and 46th Ave,ew,0,0,counted,,notes: 'W' (all nil)
+45TH|IRVING|LINCOLN,1998000,45th Ave,Lincoln Way,Irving St,45th Ave between Lincoln Way and Irving St,ns,1,1,counted,,"notes: '45th', starting at Lincoln"
+45TH|IRVING|JUDAH,1999000,45th Ave,Irving St,Judah St,45th Ave between Irving St and Judah St,ns,1,2,counted,,"notes: '45th', starting at Lincoln"
+45TH|JUDAH|KIRKHAM,2000000,45th Ave,Judah St,Kirkham St,45th Ave between Judah St and Kirkham St,ns,0,1,counted,,"notes: '45th', starting at Lincoln"
+45TH|KIRKHAM|LAWTON,2001000,45th Ave,Kirkham St,Lawton St,45th Ave between Kirkham St and Lawton St,ns,0,0,counted,,"notes: '45th', starting at Lincoln"
+45TH|LAWTON|MORAGA,2002000,45th Ave,Lawton St,Moraga St,45th Ave between Lawton St and Moraga St,ns,0,1,counted,,"notes: '45th', starting at Lincoln"
+45TH|MORAGA|NORIEGA,2003000,45th Ave,Moraga St,Noriega St,45th Ave between Moraga St and Noriega St,ns,1,0,counted,,"notes: '45th', starting at Lincoln"
+45TH|NORIEGA|ORTEGA,2004000,45th Ave,Noriega St,Ortega St,45th Ave between Noriega St and Ortega St,ns,0,2,counted,,"notes: '45th', starting at Lincoln"
+45TH|ORTEGA|PACHECO,2005000,45th Ave,Ortega St,Pacheco St,45th Ave between Ortega St and Pacheco St,ns,0,4,counted,,"notes: '45th', starting at Lincoln"
+45TH|PACHECO|QUINTARA,2006000,45th Ave,Pacheco St,Quintara St,45th Ave between Pacheco St and Quintara St,ns,0,1,counted,,"notes: '45th', starting at Lincoln"
+45TH|QUINTARA|RIVERA,2007000,45th Ave,Quintara St,Rivera St,45th Ave between Quintara St and Rivera St,ns,0,2,counted,,"notes: '45th', starting at Lincoln"
+45TH|RIVERA|SANTIAGO,2008000,45th Ave,Rivera St,Santiago St,45th Ave between Rivera St and Santiago St,ns,0,5,counted,,"notes: '45th', starting at Lincoln"
+45TH|SANTIAGO|TARAVAL,2009000,45th Ave,Santiago St,Taraval St,45th Ave between Santiago St and Taraval St,ns,0,1,counted,,"notes: '45th', starting at Lincoln"
+45TH|TARAVAL|ULLOA,2010000,45th Ave,Taraval St,Ulloa St,45th Ave between Taraval St and Ulloa St,ns,1,3,counted,,"notes: '45th', starting at Lincoln"
+45TH|ULLOA|VICENTE,2011000,45th Ave,Ulloa St,Vicente St,45th Ave between Ulloa St and Vicente St,ns,0,3,counted,,"notes: '45th', starting at Lincoln"
+45TH|VICENTE|WAWONA,2012000,45th Ave,Vicente St,Wawona St,45th Ave between Vicente St and Wawona St,ns,2,0,counted,,"notes: '45th', starting at Lincoln"
+45TH|SLOAT|WAWONA,2013000,45th Ave,Wawona St,Sloat Blvd,45th Ave between Wawona St and Sloat Blvd,ns,0,0,counted,,"notes: '45th', starting at Lincoln"
+46TH|IRVING|LINCOLN,2020000,46th Ave,Lincoln Way,Irving St,46th Ave between Lincoln Way and Irving St,ns,0,0,counted,,"notes: '46th', starting at Sloat"
+46TH|IRVING|JUDAH,2021000,46th Ave,Irving St,Judah St,46th Ave between Irving St and Judah St,ns,1,3,counted,,"notes: '46th', starting at Sloat"
+46TH|JUDAH|KIRKHAM,2022000,46th Ave,Judah St,Kirkham St,46th Ave between Judah St and Kirkham St,ns,0,7,counted,,"notes: '46th', starting at Sloat"
+46TH|KIRKHAM|LAWTON,2023000,46th Ave,Kirkham St,Lawton St,46th Ave between Kirkham St and Lawton St,ns,0,3,counted,,"notes: '46th', starting at Sloat"
+46TH|LAWTON|MORAGA,2024000,46th Ave,Lawton St,Moraga St,46th Ave between Lawton St and Moraga St,ns,0,2,counted,,"notes: '46th', starting at Sloat"
+46TH|MORAGA|NORIEGA,2025000,46th Ave,Moraga St,Noriega St,46th Ave between Moraga St and Noriega St,ns,0,1,counted,,"notes: '46th', starting at Sloat"
+46TH|NORIEGA|ORTEGA,2026000,46th Ave,Noriega St,Ortega St,46th Ave between Noriega St and Ortega St,ns,0,0,counted,,"notes: '46th', starting at Sloat"
+46TH|ORTEGA|PACHECO,2027000,46th Ave,Ortega St,Pacheco St,46th Ave between Ortega St and Pacheco St,ns,0,2,counted,,"notes: '46th', starting at Sloat"
+46TH|PACHECO|QUINTARA,2028000,46th Ave,Pacheco St,Quintara St,46th Ave between Pacheco St and Quintara St,ns,0,3,counted,,"notes: '46th', starting at Sloat"
+46TH|QUINTARA|RIVERA,2029000,46th Ave,Quintara St,Rivera St,46th Ave between Quintara St and Rivera St,ns,0,4,counted,,"notes: '46th', starting at Sloat"
+46TH|RIVERA|SANTIAGO,2030000,46th Ave,Rivera St,Santiago St,46th Ave between Rivera St and Santiago St,ns,0,2,counted,,"notes: '46th', starting at Sloat"
+46TH|SANTIAGO|TARAVAL,2031000,46th Ave,Santiago St,Taraval St,46th Ave between Santiago St and Taraval St,ns,0,2,counted,,"notes: '46th', starting at Sloat"
+46TH|TARAVAL|ULLOA,2032000,46th Ave,Taraval St,Ulloa St,46th Ave between Taraval St and Ulloa St,ns,0,3,counted,,"notes: '46th', starting at Sloat"
+46TH|ULLOA|VICENTE,2033000,46th Ave,Ulloa St,Vicente St,46th Ave between Ulloa St and Vicente St,ns,0,3,counted,,"notes: '46th', starting at Sloat"
+46TH|VICENTE|WAWONA,2034000,46th Ave,Vicente St,Wawona St,46th Ave between Vicente St and Wawona St,ns,0,0,counted,,"notes: '46th', starting at Sloat"
+46TH|SLOAT|WAWONA,2035000,46th Ave,Wawona St,Sloat Blvd,46th Ave between Wawona St and Sloat Blvd,ns,0,1,counted,,"notes: '46th', starting at Sloat"
+47TH|IRVING|LINCOLN,2043000,47th Ave,Lincoln Way,Irving St,47th Ave between Lincoln Way and Irving St,ns,0,0,counted,,"notes: '47th', starting at Sloat"
+47TH|IRVING|JUDAH,2044000,47th Ave,Irving St,Judah St,47th Ave between Irving St and Judah St,ns,0,1,counted,,"notes: '47th', starting at Sloat"
+47TH|JUDAH|KIRKHAM,2045000,47th Ave,Judah St,Kirkham St,47th Ave between Judah St and Kirkham St,ns,0,5,counted,,"notes: '47th', starting at Sloat"
+47TH|KIRKHAM|LAWTON,2046000,47th Ave,Kirkham St,Lawton St,47th Ave between Kirkham St and Lawton St,ns,1,2,counted,,"notes: '47th', starting at Sloat"
+47TH|LAWTON|MORAGA,2047000,47th Ave,Lawton St,Moraga St,47th Ave between Lawton St and Moraga St,ns,1,1,counted,,"notes: '47th', starting at Sloat"
+47TH|MORAGA|NORIEGA,2048000,47th Ave,Moraga St,Noriega St,47th Ave between Moraga St and Noriega St,ns,0,4,counted,,"notes: '47th', starting at Sloat"
+47TH|NORIEGA|ORTEGA,2049000,47th Ave,Noriega St,Ortega St,47th Ave between Noriega St and Ortega St,ns,0,0,counted,,"notes: '47th', starting at Sloat"
+47TH|ORTEGA|PACHECO,2050000,47th Ave,Ortega St,Pacheco St,47th Ave between Ortega St and Pacheco St,ns,0,2,counted,,"notes: '47th', starting at Sloat"
+47TH|PACHECO|QUINTARA,2051000,47th Ave,Pacheco St,Quintara St,47th Ave between Pacheco St and Quintara St,ns,0,1,counted,,"notes: '47th', starting at Sloat"
+47TH|QUINTARA|RIVERA,2052000,47th Ave,Quintara St,Rivera St,47th Ave between Quintara St and Rivera St,ns,0,3,counted,,"notes: '47th', starting at Sloat"
+47TH|RIVERA|SANTIAGO,2053000,47th Ave,Rivera St,Santiago St,47th Ave between Rivera St and Santiago St,ns,0,3,counted,,"notes: '47th', starting at Sloat"
+47TH|SANTIAGO|TARAVAL,2054000,47th Ave,Santiago St,Taraval St,47th Ave between Santiago St and Taraval St,ns,0,2,counted,,"notes: '47th', starting at Sloat"
+47TH|TARAVAL|ULLOA,2055000,47th Ave,Taraval St,Ulloa St,47th Ave between Taraval St and Ulloa St,ns,0,2,counted,,"notes: '47th', starting at Sloat"
+47TH|ULLOA|VICENTE,2056000,47th Ave,Ulloa St,Vicente St,47th Ave between Ulloa St and Vicente St,ns,0,0,counted,,"notes: '47th', starting at Sloat"
+47TH|CUTLER|VICENTE,2057000,47th Ave,Vicente St,Cutler Ave,47th Ave between Vicente St and Cutler Ave,ns,0,2,merged with previous block,,"notes: '47th', starting at Sloat"
+47TH|CUTLER|WAWONA,2058000,47th Ave,Cutler Ave,Wawona St,47th Ave between Cutler Ave and Wawona St,ns,0,2,counted,,"notes: '47th', starting at Sloat"
+47TH|SLOAT|WAWONA,2059000,47th Ave,Wawona St,Sloat Blvd,47th Ave between Wawona St and Sloat Blvd,ns,0,0,counted,,"notes: '47th', starting at Sloat"
+48TH|IRVING|LINCOLN,2066000,48th Ave,Lincoln Way,Irving St,48th Ave between Lincoln Way and Irving St,ns,0,5,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+48TH|IRVING|JUDAH,2067000,48th Ave,Irving St,Judah St,48th Ave between Irving St and Judah St,ns,0,1,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+48TH|JUDAH|KIRKHAM,2068000,48th Ave,Judah St,Kirkham St,48th Ave between Judah St and Kirkham St,ns,1,5,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+48TH|KIRKHAM|LAWTON,2069000,48th Ave,Kirkham St,Lawton St,48th Ave between Kirkham St and Lawton St,ns,0,2,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+48TH|LAWTON|MORAGA,2070000,48th Ave,Lawton St,Moraga St,48th Ave between Lawton St and Moraga St,ns,0,2,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+48TH|MORAGA|NORIEGA,2071000,48th Ave,Moraga St,Noriega St,48th Ave between Moraga St and Noriega St,ns,1,5,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+48TH|NORIEGA|ORTEGA,2072000,48th Ave,Noriega St,Ortega St,48th Ave between Noriega St and Ortega St,ns,0,1,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+48TH|ORTEGA|PACHECO,2073000,48th Ave,Ortega St,Pacheco St,48th Ave between Ortega St and Pacheco St,ns,0,2,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+48TH|PACHECO|QUINTARA,2074000,48th Ave,Pacheco St,Quintara St,48th Ave between Pacheco St and Quintara St,ns,0,4,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+48TH|QUINTARA|RIVERA,2075000,48th Ave,Quintara St,Rivera St,48th Ave between Quintara St and Rivera St,ns,0,2,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+48TH|RIVERA|SANTIAGO,2076000,48th Ave,Rivera St,Santiago St,48th Ave between Rivera St and Santiago St,ns,0,1,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+48TH|SANTIAGO|TARAVAL,2077000,48th Ave,Santiago St,Taraval St,48th Ave between Santiago St and Taraval St,ns,7,3,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+48TH|TARAVAL|ULLOA,2078000,48th Ave,Taraval St,Ulloa St,48th Ave between Taraval St and Ulloa St,ns,1,4,counted,,"notes: '48th', starting at Lincoln; last two blocks recorded under the 'S-t' line and the 'Great Highway' list"
+LA PLAYA|IRVING|LINCOLN,7922000,La Playa,Lincoln Way,Irving St,La Playa between Lincoln Way and Irving St,ns,6,2,counted,,notes: 'Lp'; Judah-Kirkham added later
+LA PLAYA|IRVING|JUDAH,7923000,La Playa,Irving St,Judah St,La Playa between Irving St and Judah St,ns,0,4,counted,,notes: 'Lp'; Judah-Kirkham added later
+LA PLAYA|JUDAH|KIRKHAM,7924000,La Playa,Judah St,Kirkham St,La Playa between Judah St and Kirkham St,ns,0,3,counted,,notes: 'Lp'; Judah-Kirkham added later
+LOWER GREAT|IRVING|LINCOLN,8508000,Lower Great Hwy,Lincoln Way,Irving St,Lower Great Hwy between Lincoln Way and Irving St,ns,0,0,counted,,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
+LOWER GREAT|IRVING|JUDAH,8509000,Lower Great Hwy,Irving St,Judah St,Lower Great Hwy between Irving St and Judah St,ns,0,1,counted,,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
+LOWER GREAT|JUDAH|KIRKHAM,8510000,Lower Great Hwy,Judah St,Kirkham St,Lower Great Hwy between Judah St and Kirkham St,ns,,,no residences,no buildings; these addresses face La Playa,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
+LOWER GREAT|KIRKHAM|LAWTON,8511000,Lower Great Hwy,Kirkham St,Lawton St,Lower Great Hwy between Kirkham St and Lawton St,ns,1,3,counted,,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
+LOWER GREAT|LAWTON|MORAGA,8512000,Lower Great Hwy,Lawton St,Moraga St,Lower Great Hwy between Lawton St and Moraga St,ns,0,3,counted,,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
+LOWER GREAT|MORAGA|NORIEGA,8513000,Lower Great Hwy,Moraga St,Noriega St,Lower Great Hwy between Moraga St and Noriega St,ns,2,0,counted,,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
+LOWER GREAT|NORIEGA|ORTEGA,8514000,Lower Great Hwy,Noriega St,Ortega St,Lower Great Hwy between Noriega St and Ortega St,ns,1,1,counted,,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
+LOWER GREAT|ORTEGA|PACHECO,8515000,Lower Great Hwy,Ortega St,Pacheco St,Lower Great Hwy between Ortega St and Pacheco St,ns,5,3,counted,,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
+LOWER GREAT|PACHECO|QUINTARA,8516000,Lower Great Hwy,Pacheco St,Quintara St,Lower Great Hwy between Pacheco St and Quintara St,ns,0,2,counted,,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
+LOWER GREAT|QUINTARA|RIVERA,8517000,Lower Great Hwy,Quintara St,Rivera St,Lower Great Hwy between Quintara St and Rivera St,ns,1,0,counted,,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
+LOWER GREAT|RIVERA|SANTIAGO,8518000,Lower Great Hwy,Rivera St,Santiago St,Lower Great Hwy between Rivera St and Santiago St,ns,0,0,counted,,"notes: 'Lgh' block, starting at Lincoln; Rivera-Santiago added later"
+LOWER GREAT|SANTIAGO|TARAVAL,8519000,Lower Great Hwy,Santiago St,Taraval St,Lower Great Hwy between Santiago St and Taraval St,ns,0,0,counted,"one building, no signs","notes: 'Great Highway' block, starting at Sloat"
+LOWER GREAT|TARAVAL|ULLOA,8520000,Lower Great Hwy,Taraval St,Ulloa St,Lower Great Hwy between Taraval St and Ulloa St,ns,,,no residences,no buildings; the homes here front 48th Ave,"notes: 'Great Highway' block, starting at Sloat"
+LOWER GREAT|ULLOA|VICENTE,8521000,Lower Great Hwy,Ulloa St,Vicente St,Lower Great Hwy between Ulloa St and Vicente St,ns,0,9,counted,,"notes: 'Great Highway' block, starting at Sloat"
+LOWER GREAT|CUTLER|VICENTE,8522000,Lower Great Hwy,Vicente St,Cutler Ave,Lower Great Hwy between Vicente St and Cutler Ave,ns,0,2,counted,,"notes: 'Great Highway' block, starting at Sloat"
+LOWER GREAT|CUTLER|WAWONA,8523000,Lower Great Hwy,Cutler Ave,Wawona St,Lower Great Hwy between Cutler Ave and Wawona St,ns,0,1,counted,,"notes: 'Great Highway' block, starting at Sloat"
+LOWER GREAT|SLOAT|WAWONA,8524000,Lower Great Hwy,Wawona St,Sloat Blvd,Lower Great Hwy between Wawona St and Sloat Blvd,ns,0,1,counted,,"notes: 'Great Highway' block, starting at Sloat"
